@@ -71,12 +71,13 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
+/* harmony export (immutable) */ __webpack_exports__["a"] = func;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__file2__ = __webpack_require__(1);
 
 
-const file1 = 'file1'
-
-/* harmony default export */ __webpack_exports__["a"] = (file1);
+function func() {
+	return __WEBPACK_IMPORTED_MODULE_0__file2__["a" /* default */] + 'file1'
+}
 
 
 /***/ }),
@@ -84,12 +85,13 @@ const file1 = 'file1'
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
+/* harmony export (immutable) */ __webpack_exports__["a"] = func;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__file1__ = __webpack_require__(0);
 
 
-const file2 = 'file2'
-
-/* harmony default export */ __webpack_exports__["a"] = (file2);
+function func() {
+	return __WEBPACK_IMPORTED_MODULE_0__file1__["a" /* default */] + 'file2'
+}
 
 
 /***/ }),
