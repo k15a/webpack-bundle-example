@@ -1,0 +1,16 @@
+{
+  "name": "webpack-andy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack"
+  },
+  "keywords": [],
+  "author": "Konstantin Pschera <me@kons.ch>",
+  "license": "MIT"
+}
